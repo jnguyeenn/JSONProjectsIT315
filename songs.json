@@ -1,0 +1,21 @@
+{
+    "songs:" [
+        {
+            "name": "Black Swan",
+            "album": "Map of the Soul: 7"
+        },
+        {
+            "name": "Dynamite",
+            "album": "BE"
+        },
+        {
+            "name": "Magic Shop",
+            "album": "Love Yourself: Tear"
+        },
+        {
+            "name": "Mic Drop",
+            "album": "Love Yourself: Her"
+        }
+
+    ]
+}
