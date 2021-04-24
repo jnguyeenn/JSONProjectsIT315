@@ -6,7 +6,8 @@
         },
         {
             "name": "Dynamite",
-            "album": "BE"
+            "album": "BE",
+            "image_url": "https://raw.githubusercontent.com/jnguyeenn/JSONProjectsIT315/master/dynamite.png"
         },
         {
             "name": "Magic Shop",
