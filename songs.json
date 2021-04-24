@@ -8,7 +8,7 @@
             "duration": "4:05",
             "language": "Japanese",
             "composer": "Jeon Jungkook",
-            "image_url": ""
+            "image_url": "https://raw.githubusercontent.com/jnguyeenn/JSONProjectsIT315/master/youreyestell.jpg"
         },
         {
            "name": "Magic Shop",
@@ -18,7 +18,7 @@
            "duration": "4:35",
            "language": "Korean",
            "composer": "Jungkook, RM, J-Hope, and Suga",
-           "image_url": ""
+           "image_url": "https://raw.githubusercontent.com/jnguyeenn/JSONProjectsIT315/master/magicshop.jpg"
         },
         {
            "name": "Mic Drop",
@@ -28,7 +28,7 @@
            "duration": "3:58",
            "language": "Korean",
            "composer": "Bang Si-Hyuk, RM, J-Hope, Supreme Boi, and Pdogg",
-           "image_url": ""
+           "image_url": "https://raw.githubusercontent.com/jnguyeenn/JSONProjectsIT315/master/micdrop.jpg"
         },
         {
            "name": "Save Me",
@@ -38,7 +38,7 @@
            "duration": "43:37",
            "language": "Korean",
            "composer": "Pdogg, RM, J-Hope, and Suga",
-           "image_url": ""
+           "image_url": "https://raw.githubusercontent.com/jnguyeenn/JSONProjectsIT315/master/saveme.jpg"
         },
         {
           "name": "Dynamite",
@@ -48,7 +48,7 @@
           "duration": "3:19",
           "language": "English",
           "composer": "David Stewart and Jessica Agombar",
-          "image_url": ""
+          "image_url": "https://raw.githubusercontent.com/jnguyeenn/JSONProjectsIT315/master/dynamite.png"
         },
          {
           "name": "Black Swan",
@@ -58,7 +58,7 @@
           "duration": "3:18",
           "language": "Korean",
           "composer": "Pdogg, RM, Clyde Kelly, and August Rico",
-          "image_url": ""
+          "image_url": "https://raw.githubusercontent.com/jnguyeenn/JSONProjectsIT315/master/blackswan.png"
         },
 
     ]
