@@ -1,22 +1,65 @@
 {
     "songs": [
         {
-            "name": "Black Swan",
-            "album": "Map of the Soul: 7"
+            "name": "Your Eyes Tell",
+            "theme": "There is light in the future that your eyes are seeing, even in difficult situations",
+            "album": "Map of the Soul: 7: The Journey",
+            "year": "2020",
+            "duration": "4:05",
+            "language": "Japanese",
+            "composer": "Jeon Jungkook",
+            "image_url": ""
         },
         {
-            "name": "Dynamite",
-            "album": "BE",
-            "image_url": "https://raw.githubusercontent.com/jnguyeenn/JSONProjectsIT315/master/dynamite.png"
+           "name": "Magic Shop",
+           "theme": "Open your hearts when you are in pain, and take away your fear; giving you back happiness by letting you know that you are not alone",
+           "album": "Love Yourself: Answer",
+           "year": "2018",
+           "duration": "4:35",
+           "language": "Korean",
+           "composer": "Jungkook, RM, J-Hope, and Suga",
+           "image_url": ""
         },
         {
-            "name": "Magic Shop",
-            "album": "Love Yourself: Tear"
+           "name": "Mic Drop",
+           "theme": "All the achievements aquired coming from a small company with no real influence in the kpop world, directed towards the haters as they begin to become popular and win multiple awards",
+           "album": "Love Yourself: Her",
+           "year": "2017",
+           "duration": "3:58",
+           "language": "Korean",
+           "composer": "Bang Si-Hyuk, RM, J-Hope, Supreme Boi, and Pdogg",
+           "image_url": ""
         },
         {
-            "name": "Mic Drop",
-            "album": "Love Yourself: Her"
-        }
+           "name": "Save Me",
+           "theme": "To have hope and never give up pleading for help and asking for salavation",
+           "album": "The Most Beautiful Moment In Life: Young Forever",
+           "year": "2016",
+           "duration": "43:37",
+           "language": "Korean",
+           "composer": "Pdogg, RM, J-Hope, and Suga",
+           "image_url": ""
+        },
+        {
+          "name": "Dynamite",
+          "theme": "Make an effort to be happy during this difficult time dealing with the pandemic and lifting the mood by shedding light on the world when it is dark",
+          "album": "BE",
+          "year": "2020",
+          "duration": "3:19",
+          "language": "English",
+          "composer": "David Stewart and Jessica Agombar",
+          "image_url": ""
+        },
+         {
+          "name": "Black Swan",
+          "theme": "Look into the heart and dark shadows of each artist as they approach art aware of its potential destruction and working hard to overcome it",
+          "album": "Map of the Soul: 7",
+          "year": "2020",
+          "duration": "3:18",
+          "language": "Korean",
+          "composer": "Pdogg, RM, Clyde Kelly, and August Rico",
+          "image_url": ""
+        },
 
     ]
 }
