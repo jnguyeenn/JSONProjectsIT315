@@ -8,7 +8,8 @@
             "duration": "4:05",
             "language": "Japanese",
             "composer": "Jeon Jungkook",
-            "image_url": "https://raw.githubusercontent.com/jnguyeenn/JSONProjectsIT315/master/youreyestell.jpg"
+            "image_url": "https://raw.githubusercontent.com/jnguyeenn/JSONProjectsIT315/master/youreyestell.jpg",
+            "website_url": "https://bts.fandom.com/wiki/Your_eyes_tell"
         },
         {
            "name": "Magic Shop",
@@ -18,7 +19,8 @@
            "duration": "4:35",
            "language": "Korean",
            "composer": "Jungkook, RM, J-Hope, and Suga",
-           "image_url": "https://raw.githubusercontent.com/jnguyeenn/JSONProjectsIT315/master/magicshop.jpg"
+           "image_url": "https://raw.githubusercontent.com/jnguyeenn/JSONProjectsIT315/master/magicshop.jpg",
+           "website_url": "https://ibighit.com/bts/eng/discography/detail/love_yourself-answer.php"
         },
         {
            "name": "Mic Drop",
@@ -28,7 +30,8 @@
            "duration": "3:58",
            "language": "Korean",
            "composer": "Bang Si-Hyuk, RM, J-Hope, Supreme Boi, and Pdogg",
-           "image_url": "https://raw.githubusercontent.com/jnguyeenn/JSONProjectsIT315/master/micdrop.jpg"
+           "image_url": "https://raw.githubusercontent.com/jnguyeenn/JSONProjectsIT315/master/micdrop.jpg",
+           "website_url": "https://ibighit.com/bts/eng/discography/detail/love_yourself-her.php"
         },
         {
            "name": "Save Me",
@@ -38,7 +41,8 @@
            "duration": "43:37",
            "language": "Korean",
            "composer": "Pdogg, RM, J-Hope, and Suga",
-           "image_url": "https://raw.githubusercontent.com/jnguyeenn/JSONProjectsIT315/master/saveme.jpg"
+           "image_url": "https://raw.githubusercontent.com/jnguyeenn/JSONProjectsIT315/master/saveme.jpg",
+           "website_url": "https://ibighit.com/bts/eng/discography/detail/hwayangyeonhwa-young_forever.php"
         },
         {
           "name": "Dynamite",
@@ -48,7 +52,8 @@
           "duration": "3:19",
           "language": "English",
           "composer": "David Stewart and Jessica Agombar",
-          "image_url": "https://raw.githubusercontent.com/jnguyeenn/JSONProjectsIT315/master/dynamite.png"
+          "image_url": "https://raw.githubusercontent.com/jnguyeenn/JSONProjectsIT315/master/dynamite.png",
+          "website_url": "https://ibighit.com/bts/eng/discography/detail/dynamite.php"
         },
          {
           "name": "Black Swan",
@@ -58,7 +63,8 @@
           "duration": "3:18",
           "language": "Korean",
           "composer": "Pdogg, RM, Clyde Kelly, and August Rico",
-          "image_url": "https://raw.githubusercontent.com/jnguyeenn/JSONProjectsIT315/master/blackswan.png"
+          "image_url": "https://raw.githubusercontent.com/jnguyeenn/JSONProjectsIT315/master/blackswan.png",
+          "website_url": "https://ibighit.com/bts/eng/discography/detail/map_of_the_soul-7.php"
         }
 
     ],
